@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cf74107.css",
+    "main.js": "/static/js/main.276ca9b9.js",
+    "static/media/family.jpg": "/static/media/family.085fccd50a8bb28e0aa6.jpg",
+    "static/media/MomAndDaughte.jpg": "/static/media/MomAndDaughte.93e4107dd2b89a012865.jpg",
+    "static/media/abuelitaSombrero.png": "/static/media/abuelitaSombrero.3652d4458803e7ccf284.png",
+    "static/media/HeroPic1.png": "/static/media/HeroPic1.6c05fb5982e6f34a861b.png",
+    "static/media/Cuidamed-Wristband-Heart-Shaped.png": "/static/media/Cuidamed-Wristband-Heart-Shaped.3c02f2a87e8869f1e747.png",
+    "static/media/HeroPic3.png": "/static/media/HeroPic3.76a4e74c2818cb0a198b.png",
+    "static/media/Cuidamed-Webapp-Screen.png": "/static/media/Cuidamed-Webapp-Screen.4fa33676933d2ad25175.png",
+    "static/media/HeroPic2.png": "/static/media/HeroPic2.43a9209f803e6208a06c.png",
+    "static/media/smarphone.svg": "/static/media/smarphone.f4e3d497339587a64431b917e8155183.svg",
+    "static/media/Gallery.jpg": "/static/media/Gallery.8694e799a6f3ceef265e.jpg",
+    "static/media/HeroPic1-Sprite.png": "/static/media/HeroPic1-Sprite.706d7e7193433682bb31.png",
+    "static/media/HeroPic2-Sprite.png": "/static/media/HeroPic2-Sprite.92aa53e1e204746e2f77.png",
+    "static/media/HeroPic3-Sprite.png": "/static/media/HeroPic3-Sprite.d70cae24b5969cf142e4.png",
+    "static/media/Cuidamed-Notification.png": "/static/media/Cuidamed-Notification.4745845b561050ef9ace.png",
+    "static/media/Logo.svg": "/static/media/Logo.ea47c3ec4850f18191b0b904969f7164.svg",
+    "static/media/imss.svg": "/static/media/imss.e8f31857d43eb9fe2525d2ae36e0bd23.svg",
+    "static/media/IconPulzera.svg": "/static/media/IconPulzera.9b9b4891a2e45277da47db32059b274d.svg",
+    "static/media/EmergencySituation.svg": "/static/media/EmergencySituation.b7354f9a641a0670fb5060ca1420eb12.svg",
+    "static/media/IconPhone.svg": "/static/media/IconPhone.86b3129a1c8cad1ee8ad7fd9dffab2b3.svg",
+    "static/media/cree.svg": "/static/media/cree.f04b682ab5749381f76c972ffad00d73.svg",
+    "static/media/Cuidamed-Privacy-Icon.svg": "/static/media/Cuidamed-Privacy-Icon.0f3ec321c810a6ff0577ec9f46920044.svg",
+    "static/media/discount-label-30-percent.svg": "/static/media/discount-label-30-percent.644e92c65552824e9ed5a87f0a5da69e.svg",
+    "static/media/discount-label-30-percent-filled.svg": "/static/media/discount-label-30-percent-filled.f352e779b900f55e5a65009a4b278551.svg",
+    "static/media/checkOff.svg": "/static/media/checkOff.d44f95aa1d1e08bdfe923b862c56d34b.svg",
+    "static/media/checkOn.svg": "/static/media/checkOn.cec12f480cee603b1592c28c66c578ce.svg",
+    "index.html": "/index.html",
+    "static/media/cart-outlined.svg": "/static/media/cart-outlined.7532af2fd3437fd7ccdf57f2c0d16ed4.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.99fe786bfa60aa56bcd279aa1baf0d1c.svg",
+    "main.3cf74107.css.map": "/static/css/main.3cf74107.css.map",
+    "main.276ca9b9.js.map": "/static/js/main.276ca9b9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cf74107.css",
+    "static/js/main.276ca9b9.js"
+  ]
+}
